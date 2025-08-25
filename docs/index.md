@@ -30,11 +30,11 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 - Quantum Computing
 
 <h3 style= "text-align: center"> <b>Publications
- </b>  </h3> *
+ </b>  </h3>
 
 📚 **Journal Article:**
 
-1. **Papri, N.J**, Ahmed, A. & Chowdhury, A. (2025). IoT and cloud-based non-invasive diabetes detection system from Photoplethysmogram. *Discover Internet Things*, 5, 57 (2025). [DOI link](https://doi.org/10.1007/s43926-025-00158-w)
+1. **Papri, N.J**, Ahmed, A. & Chowdhury, A. (2025). IoT and cloud-based non-invasive diabetes detection system from Photoplethysmogram. *Discover Internet Things*, 5, 57 (2025).[DOI link](https://doi.org/10.1007/s43926-025-00158-w)
 
 📚 **Conference Paper:**
 
