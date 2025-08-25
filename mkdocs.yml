@@ -25,7 +25,7 @@ nav:
         - Data Analysis Tools: numerical-matlab.md
         - Transformer Design: transformer-design.md
      - Programming Language: CplusPlus.md
-  #- Training and Working Experience: training-working.md  
+  - Professional Experience: training-working.md  
   - Projects: 
      - IOT based Health Monitoring System: iot-based-health-monitoring.md
      - Ultrasonic Distance Measurement: ultrasonic-distance-measurement.md
