@@ -5,7 +5,7 @@
 
 **Authors:** **N. J. Papri**, A. Ahmed, and A. Chowdhury 
 
-**Published: ***Discover Internet Things*, 5, 57 
+**Published:** *Discover Internet Things, 5, 57.* 
 
 **Publicaiotn Year:** (2025). 
 
