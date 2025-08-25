@@ -4,7 +4,9 @@ Our project is a low-cost, user-friendly ultrasonic distance meter. It uses soun
 The sensor transmits and receives ultrasonic pulses, and a microcontroller converts the analog signal into a digital format for accurate distance calculation. This information is then displayed on an LCD screen for easy viewing. 
 
 This simple and affordable system offers a reliable way to measure distance without touching the target object.
-34
+
+34, updatdd.
+
 ### **📌 Feature**
 
   🔹 Non-contact measurement
