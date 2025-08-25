@@ -17,6 +17,7 @@ nav:
   - Education: Education.md 
       #  - My education: Education.md 
   #- Research Experience: research-paper.md
+  - Publications: publications.md
   - My Skills: 
      - Basic Arduino: basic-arduino.md
      - EEE Hardware and Software: 
