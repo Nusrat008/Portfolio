@@ -12,11 +12,11 @@
   <figcaption>Cadence</figcaption>
 </figure>
 
-### **📌 AutoCad**
+### **📌 AUTOCAD**
 
 <figure markdown="span">
 ![Image title](images/auto-cad.png){ loading=lazy }
-  <figcaption>Cadence</figcaption>
+  <figcaption>AUTOCAD</figcaption>
 </figure>
 
 <figure markdown="span">
