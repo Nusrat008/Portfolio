@@ -4,10 +4,6 @@
   <figcaption>Conference | QPAIN </figcaption>
 </figure>
 
-<figure markdown="span">
-![Image title](images/my_certificate_DIU.png){ loading=lazy }
-  <figcaption>Champion | EEE Fest</figcaption>
-</figure>
 
 <figure markdown="span">
 ![Image title](images/industrial training certificate.jpg){ loading=lazy }
@@ -17,6 +13,11 @@
 <figure markdown="span">
 ![Image title](images/winner-IEEE.png){ loading=lazy }
   <figcaption>Champion | IEEE LED-Con</figcaption>
+</figure>
+
+<figure markdown="span">
+![Image title](images/my_certificate_DIU.png){ loading=lazy }
+  <figcaption>Champion | EEE Fest</figcaption>
 </figure>
 
 <figure markdown="span">
