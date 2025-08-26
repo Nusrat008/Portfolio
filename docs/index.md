@@ -15,7 +15,7 @@ I recently completed my Bachelor of Science in Electrical and Electronic Enginee
 <h3 style= "text-align: center"> <b> Career Objective
  </b>  </h3>
 
-I aspire to achieve impactful research outcomes through unwavering dedication.I seek hands-on experience in EEE design, assembly, and service to solidify my understanding of practical applications and bridge the gap between theory and real-world implementation.
+I aspire to achieve impactful research outcomes through unwavering dedication. I seek hands-on experience in EEE design, assembly, and service to solidify my understanding of practical applications and bridge the gap between theory and real-world implementation.
 
 
 <h3 style= "text-align: center"> <b>Area of Research Interest
