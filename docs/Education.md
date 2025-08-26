@@ -1,5 +1,5 @@
 
-### **Bachelor of Science in Electrical and Electronic Engineering:** 2020-Present 
+### **Bachelor of Science in Electrical and Electronic Engineering:** February 2020 - July 2025 
 
 Chittagong University of Engineering & Technology (CUET), Chittagong-4349, Bangladesh, [cuet.ac.bd](https://cuet.ac.bd/)
 
