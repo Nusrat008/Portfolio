@@ -16,7 +16,7 @@
 
 <figure markdown="span">
 ![Image title](images/winner-IEEE.png){ loading=lazy }
-  <figcaption>Champion | IEEE Led-Conf</figcaption>
+  <figcaption>Champion | IEEE LED-Con</figcaption>
 </figure>
 
 <figure markdown="span">
@@ -26,7 +26,7 @@
 
 <figure markdown="span">
 ![Image title](images/IEEE_FTC_certf.jpg){ loading=lazy }
-  <figcaption>Organizing | IEEE,CUET</figcaption>
+  <figcaption>Organizing | IEEE</figcaption>
 </figure>
 
 <figure markdown="span">
