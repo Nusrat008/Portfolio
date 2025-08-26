@@ -108,8 +108,8 @@ extra:
     #   link: https://github.com/ramiz-moktader/
     # - icon: fontawesome/brands/linkedin
     #   link: https://github.com/ramiz-moktader/
-    - icon: fontawesome/brands/google scholar
-      link: https://scholar.google.com/citations?user=Vuq4AIAAAAAJ&hl=en
+    - icon: fontawesome/brands/Google Scholar
+      link: https://scholar.google.com/citations?hl=en&user=Vuq4AIAAAAAJ
     - icon: fontawesome/brands/ResearchGate
       link: https://www.researchgate.net/profile/Nusrat-Papri?ev=hdr_xprf 
 
