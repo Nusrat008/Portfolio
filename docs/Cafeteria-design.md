@@ -14,11 +14,15 @@
 
 - Preparing Bill of Quantities (BOQ) and cost estimation.
 
+
+### **Detail Plan Drawing**
+
 <figure markdown="span">
 ![Image title](images/Cafeteria projects/Detail-Plan.png){ loading=lazy }
   <figcaption>Detail Plan Drawing</figcaption>
 </figure>
 
+### **Fitting and Fixture**
 
 <figure markdown="span">
 ![Image title](images/Cafeteria projects/Fitting-fixture.png){ loading=lazy }
