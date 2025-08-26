@@ -33,11 +33,11 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 
 📚 **Journal Article:**
 
-1. **Papri, N.J**, Ahmed, A. & Chowdhury, A. (2025). IoT and cloud-based non-invasive diabetes detection system from Photoplethysmogram. *Discover Internet Things*, 5, 57 (2025). [DOI link](https://doi.org/10.1007/s43926-025-00158-w)
+- **Papri, N.J**, Ahmed, A. & Chowdhury, A. (2025). IoT and cloud-based non-invasive diabetes detection system from Photoplethysmogram. *Discover Internet Things*, 5, 57 (2025). [DOI link](https://doi.org/10.1007/s43926-025-00158-w)
 
 📚 **Conference Paper:**
 
-1. **Papri, N.J**, Ferdous, J., Khan, I., & Ghosh, S.(2025).
+- **Papri, N.J**, Ferdous, J., Khan, I., & Ghosh, S.(2025).
 Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Body. *IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*, Bangladesh, 2025.
 
   🔗[See details here](https://nusrat008.github.io/Portfolio/publications/)
@@ -45,11 +45,10 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
 <h3 style= "text-align: center"> <b> Achievements
  </b>  </h3>
 
-- 🏆 **CHAMPION** Project in "Inter-University Project Showcasing" at 
-"EEE Fest 2025" by EEE Club DIU 
-- 🏆 **CHAMPION**  Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''
-- 🏅 **Runner Up**  in TechSpark 2023
-- 🏅 **Runner Up** Project in 'Basic Electronic, PCB Designing  & Proteus'
+- 🏆 **CHAMPION** Project in 'Inter-University Project Showcasing' at 'EEE Fest 2025' by *EEE Club DIU* 
+- 🏆 **CHAMPION**  Project in the 'Undergraduate Project Video Contest' at *Internaltional Student LED-Con 2023*
+- 🏅 **Runner Up**  in TechSpark 2023 by *IEEE CUET WIE Affinity Group* 
+- 🏅 **Runner Up** Project in 'Basic Electronic, PCB Designing  & Proteus'by *IEEE CUET Student Branch*
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
 
@@ -58,11 +57,11 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
 
 ⚙️ **Software and Programming Skills:**
 
-   
-   🔹 [Programming Language(See Details):](https://nusrat008.github.io/Portfolio/CplusPlus/) C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
-  
 
-   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) Proteus, Advance Design System (ADS), MATLAB Simulink
+   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) COMSOL, Cadence, Advance Design System (ADS),[AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/) MATLAB Simulink, Proteus
+   
+
+   🔹 [Programming Language(See Details):](https://nusrat008.github.io/Portfolio/CplusPlus/) Python, C, C++, MATLAB, Assembly (MASM), ARDUINO 
  
    
    🔹 [Numerical Analysis(See Details):](https://nusrat008.github.io/Portfolio/numerical-matlab/) MATLAB, Origin
@@ -71,7 +70,7 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
    🔹 [Microcontroller Programming(See Details):](https://nusrat008.github.io/Portfolio/basic-arduino/) [ARDUINO](https://nusrat008.github.io/Portfolio/basic-arduino/), PIC (mikroC PRO)
 
 
-   🔹 Graphics and Document: LATEX, [AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
+   🔹 Graphics and Document: LATEX, Camtasia, KineMaster
 
 
 
