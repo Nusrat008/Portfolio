@@ -19,11 +19,11 @@ nav:
   #- Research Experience: research-paper.md
   - Publications: publications.md
   - My Skills: 
+     #- EEE Hardware and Software: 
+     - Electrical Circuit Simulation: circuit-simulation.md
+     - Data Analysis Tools: numerical-matlab.md
+     - Transformer Design: transformer-design.md
      - Basic Arduino: basic-arduino.md
-     - EEE Hardware and Software: 
-        - Electrical Circuit Simulation: circuit-simulation.md
-        - Data Analysis Tools: numerical-matlab.md
-        - Transformer Design: transformer-design.md
      - Programming Language: CplusPlus.md
   - Professional Experience: training-working.md  
   - Projects: 
@@ -107,6 +107,11 @@ extra:
     #   link: https://github.com/ramiz-moktader/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nusrat-papri 
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nusrat-papri 
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nusrat-papri 
+
 
 extra_javascript:
   - javascripts/mathjax.js
