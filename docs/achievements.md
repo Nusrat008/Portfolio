@@ -1,5 +1,5 @@
 
-### **🏆 CHAMPION   Project in the "Inter-University Project Showcasing" at "EEE Fest 2025" **
+### **🏆 CHAMPION   Project in the "Inter-University Project Showcasing" at "EEE Fest 2025"**
  
 
 **Organizer: EEE Club DIU** 
