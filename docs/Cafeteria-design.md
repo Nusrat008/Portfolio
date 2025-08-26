@@ -9,7 +9,7 @@
 - Preparing Bill of Quantities (BOQ) and cost estimation.
 
 <figure markdown="span">
-![Image title](images/Floor-plan.png){ loading=lazy }
+![Image title](images/Cafeteria projects/Cabling.png){ loading=lazy }
   <figcaption>Detail Plan Drawing</figcaption>
 </figure>
 
