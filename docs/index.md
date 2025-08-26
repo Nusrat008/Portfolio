@@ -41,6 +41,17 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 1. **Papri, N.J**, Ferdous, J., Khan, I., & Ghosh, S.(2025).
 Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Body. *IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*, Bangladesh, 2025.
 
+<h3 style= "text-align: center"> <b> Achievements
+ </b>  </h3>
+
+- 🏆 **CHAMPION** Project in "Inter-University Project Showcasing" at 
+"EEE Fest 2025" by EEE Club DIU 
+- 🏆 **CHAMPION**  Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''
+- 🏅 **Runner Up**  in TechSpark 2023
+- 🏅 **Runner Up** Project in 'Basic Electronic, PCB Designing  & Proteus'
+ 
+  🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
+
 <h3 style= "text-align: center"> <b> Technical Skills
  </b>  </h3>
 
@@ -78,15 +89,6 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
   🔗[Ultrasonic Distance Measurement](https://nusrat008.github.io/Portfolio/ultrasonic-distance-measurement/)
 
   🔗[Electronic Mosquito Repellent](https://nusrat008.github.io/Portfolio/Mosquito-repellent-ckt/)
-
-<h3 style= "text-align: center"> <b> Achievements
- </b>  </h3>
-
-- 🏆 CHAMPION    Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''
-- 🏅 Runner Up  in TechSpark 2023
-- 🏅 Runner Up Project in 'Basic Electronic, PCB Designing  & Proteus'
- 
-  🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
 
 
 <h3 style= "text-align: center"> <b> Course and Certifications
