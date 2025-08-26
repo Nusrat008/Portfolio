@@ -8,7 +8,7 @@
 ### **📌 Cadence**
 
 <figure markdown="span">
-![Image title](images/cadence.png){ loading=lazy }
+![Image title](images/Cadence.png){ loading=lazy }
   <figcaption>Cadence</figcaption>
 </figure>
 
