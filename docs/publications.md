@@ -24,7 +24,7 @@
 
 **Publicaiotn Year:** 2025. 
 
-**Abstract:** This study introduces a Surface Plasmon 
+<!-- **Abstract:** This study introduces a Surface Plasmon 
 Resonance (SPR) sensor based on a Photonic Crystal Fiber 
 (PCF) aimed at the early screening of malaria in blood 
 samples. The sensor is designed with a circular PCF structure 
@@ -49,4 +49,9 @@ for ring-stage, 2.54 dB/cm for trophozoite-stage, and 1.66
 dB/cm for schizont-stage infected RBC. These results 
 underscore the sensor's potential for accurate, label-free 
 malaria detection and offer a promising solution for portable, 
-real-time diagnostic applications. 
+real-time diagnostic applications.  -->
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
