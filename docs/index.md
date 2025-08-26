@@ -1,15 +1,15 @@
 <figure markdown="span">
-![Image title](images/TechSpark_presentation.jpg){ loading=lazy }
+![Image title](images/My protfilio home pic_conf.jpg){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
 
-# Welcome to my portfolio. I am **Nusrat Jahan Papri**, a final year student of EEE, CUET, Bangladesh. 
+#I am **Nusrat Jahan Papri**, graduated from EEE, CUET, Bangladesh. 
 
 
 <h3 style= "text-align: center"> <b> Education </b>  </h3>
 
-Currently, I am pursuing my Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
+I recently completed my Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
 
 🔗[See details here](https://nusrat008.github.io/Portfolio/Education)
 
@@ -25,10 +25,10 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 - Optics & Photonics
 - Biomedical Instrumentation
 - Artificial intelligence, Machine Learning, Deep learning
-- Embedded System: System Design with Arduino, ESP & Sensors
-- IOT
+- VLSI design, Embedded System
+- Internet of Things
 - Quantum Computing
-
+- Semiconductor Physics and Renewable Energey
 <h3 style= "text-align: center"> <b>Publications
  </b>  </h3>
 
