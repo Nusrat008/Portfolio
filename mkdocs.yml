@@ -105,10 +105,10 @@ extra:
       link: https://www.linkedin.com/in/nusrat-papri 
     - icon: fontawesome/brands/github-alt
       link: https://github.com/nusrat008/
-    - icon: fontawesome/brands/Google Scholar
+    - icon: simple-icons:google-scholar
       link: https://scholar.google.com/citations?hl=en&user=Vuq4AIAAAAAJ
-    - icon: fontawesome/brands/ResearchGate
-      link: https://www.researchgate.net/profile/Nusrat-Papri?ev=hdr_xprf 
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Nusrat-Papri?ev=hdr_xprf
 
 
 
