@@ -4,8 +4,9 @@
 </figure>
 
 
-# Welcome to my Protfolio **NUSRAT JAHAN PAPRI** 
-B.Sc. in EEE, CUET, Bangladesh. 
+# Welcome to my Protfolio 
+# **NUSRAT JAHAN PAPRI** 
+# B.Sc. in EEE, CUET, Bangladesh. 
 
 
 <h3 style= "text-align: center"> <b> Education </b>  </h3>
