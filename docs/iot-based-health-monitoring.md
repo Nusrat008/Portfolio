@@ -49,8 +49,8 @@ We got a fine result with accuracy of measurement more than 90%.The Doctor satis
 ### **⭐ Credit**
 Engineered by **Team OxyGenix**
 
-1. Ajmal Ahmed Shakib
+1. Nusrat Jahan Papri
 
-2. Nusrat Jahan Papri
+2. Ajmal Ahmed Shakib
 
 3. Md.Shakibur Rahman
