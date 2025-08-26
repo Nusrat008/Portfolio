@@ -28,6 +28,8 @@ I aspire to achieve impactful research outcomes through unwavering dedication. I
 - Internet of Things
 - Quantum Computing
 - Semiconductor Physics and Renewable Energey
+
+
 <h3 style= "text-align: center"> <b>Publications
  </b>  </h3>
 
@@ -41,6 +43,7 @@ I aspire to achieve impactful research outcomes through unwavering dedication. I
 Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Body. *IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*, Bangladesh, 2025.
 
   🔗[See details here](https://nusrat008.github.io/Portfolio/publications/)
+
 
 <h3 style= "text-align: center"> <b> Achievements
  </b>  </h3>
@@ -58,7 +61,7 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
 ⚙️ **Software and Programming Skills:**
 
 
-   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) COMSOL, Cadence, Advance Design System (ADS),[AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/) MATLAB Simulink, Proteus
+   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) **COMSOL Multiphysics**, Cadence, Advance Design System (ADS),[AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/) MATLAB Simulink, Proteus
    
 
    🔹 [Programming Language(See Details):](https://nusrat008.github.io/Portfolio/CplusPlus/) Python, C, C++, MATLAB, Assembly (MASM), ARDUINO 
