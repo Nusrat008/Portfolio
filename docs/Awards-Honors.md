@@ -25,7 +25,7 @@
 </figure>
 
 <figure markdown="span">
-![Image title](images/IEEE_FTC_certf.jpg){ loading=lazy }
+![Image title](images/IEEE_FTC_Nusrat Jahan Papri.jpg){ loading=lazy }
   <figcaption>Certificate | Organizing | IEEE,CUET</figcaption>
 </figure>
 
