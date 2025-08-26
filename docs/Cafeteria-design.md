@@ -26,10 +26,10 @@
 </figure>
 
 
-<figure markdown="span">
+<!-- <figure markdown="span">
 ![Image title](images/Cafeteria projects/Conduit.png){ loading=lazy }
   <figcaption>Conduit Layouts</figcaption>
-</figure>
+</figure> -->
 
 
 <!-- <figure markdown="span">
