@@ -102,13 +102,14 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/nusrat-papri 
+      link: https://www.linkedin.com/in/nusrat-papri
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Nusrat-Papri/ 
     - icon: fontawesome/brands/github-alt
       link: https://github.com/nusrat008/
     # - icon: simple-icons:google-scholar
     #   link: https://scholar.google.com/citations?hl=en&user=Vuq4AIAAAAAJ
-    - icon: fontawesome/brands/researchgate
-      link: https://www.researchgate.net/profile/Nusrat-Papri/
+    
 
 
 
