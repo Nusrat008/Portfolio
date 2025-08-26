@@ -6,10 +6,23 @@
 - *Internship, (Nov 2024 – Dec 2024)*
 
 
-- Engine control systems & Weapon control systems
-- Combat management systems & Advanced communication protocols
+- Engine control systems & Weapon control systems.
 
-- Networking and HMI systems & Drone technologies
+- Combat management systems & Advanced communication protocols.
+
+- Networking and HMI systems & Drone technologies.
+
+
+<figure markdown="span">
+![Image title](images/industrial training certificate.jpg){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+
+<figure markdown="span">
+![Image title](images/Me_in_Navy.jpg){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
 
 
 <figure markdown="span">
@@ -17,13 +30,3 @@
   <figcaption></figcaption>
 </figure>
 
-
-<figure markdown="span">
-![Image title](images/me_in_Navy.jpg){ loading=lazy }
-  <figcaption></figcaption>
-</figure>
-
-<figure markdown="span">
-![Image title](images/industrial training certificate.jpg){ loading=lazy }
-  <figcaption></figcaption>
-</figure>
