@@ -8,7 +8,7 @@
 ### **📌 Cadence**
 
 <figure markdown="span">
-![Image title](images/Comsol-logo.jpg){ loading=lazy }
+![Image title](images/cadence.png){ loading=lazy }
   <figcaption>Cadence</figcaption>
 </figure>
 
@@ -18,13 +18,6 @@
 ![Image title](images/auto-cad.png){ loading=lazy }
   <figcaption>AUTOCAD</figcaption>
 </figure>
-
-<figure markdown="span">
-![Image title](images/Comsol-logo.jpg){ loading=lazy }
-  <figcaption>AutoCad</figcaption>
-</figure>
-
-
 
 
 ### **📌 ADS**
