@@ -31,7 +31,7 @@
 
 <figure markdown="span">
 ![Image title](images/Runner-up-PCB.png){ loading=lazy }
-  <figcaption>Runner Up | PCB design Contest</figcaption>
+  <figcaption>Runner Up | PCB Design Contest</figcaption>
 </figure>
 
 <figure markdown="span">
