@@ -4,7 +4,7 @@
 </figure>
 
 
-# **Nusrat Jahan Papri**, 
+# **Nusrat Jahan Papri** 
 B.Sc. in EEE, CUET, Bangladesh. 
 
 
