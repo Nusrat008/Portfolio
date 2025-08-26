@@ -3,7 +3,7 @@
   <figcaption></figcaption>
 </figure>
 
-# Welcome to my Protfolio. I am  **NUSRAT JAHAN PAPRI**, Graduated in EEE from CUET, Bangladesh 
+# Welcome to my Protfolio. I am  **NUSRAT JAHAN PAPRI**, a Graduated in EEE from CUET, Bangladesh 
 
 
 <h3 style= "text-align: center"> <b> Education </b>  </h3>
