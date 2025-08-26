@@ -90,6 +90,13 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
 
   🔗[Electronic Mosquito Repellent](https://nusrat008.github.io/Portfolio/Mosquito-repellent-ckt/)
 
+<h3 style= "text-align: center"> <b> Professional Experience
+ </b>  </h3>
+
+**Industrial Trainee**
+- Centre for Naval Research and Development (CNRD) by Bangladesh Navy  
+- Internship, (Nov 2024 – Dec 2024)
+
 
 <h3 style= "text-align: center"> <b> Course and Certifications
  </b>  </h3>
