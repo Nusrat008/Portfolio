@@ -20,14 +20,15 @@ nav:
   - Publications: publications.md
   - Projects: 
      - IOT based Health Monitoring System: iot-based-health-monitoring.md
+     - Electrical Service Design for Cafeteria: Cafeteria-design.md
      - Ultrasonic Distance Measurement: ultrasonic-distance-measurement.md
-     - Electronic Mosquito Repellent: Mosquito-repellent-ckt.md
+     - 120 kVA Distribution Transformer Design: transformer-design.md
+     - Electronic Mosquito Repellent: Mosquito-repellent-ckt.md 
   - Achievements: achievements.md
   - Skills: 
      #- EEE Hardware and Software: 
      - Electrical Circuit Simulation: circuit-simulation.md
      - Data Analysis Tools: numerical-matlab.md
-     - Transformer Design: transformer-design.md
      - Basic Arduino: basic-arduino.md
      - Programming Language: CplusPlus.md
   - Professional Experience: training-working.md  
