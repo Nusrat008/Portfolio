@@ -1,6 +1,6 @@
 # **ELECTRICAL DESIGN OF A 50×70 SQUARE FEET CAFETERIA**
 
-- **Objectives**
+**Objectives**
 - Designing electrical layout with floor plan.
 - Providing power, fan, and fire safety layouts.
 - Designing structured conduit and cabling routes.
