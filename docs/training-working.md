@@ -1,9 +1,10 @@
 
 ### **Industrial Trainee**
 
-- **Centre for Naval Research and Development (CNRD) by Bangladesh Navy** 
+ **Centre for Naval Research and Development (CNRD) by Bangladesh Navy** 
 
-- *Internship, (Nov 2024 – Dec 2024)*
+
+*Internship, (Nov 2024 – Dec 2024)*
 
 
 - Engine control systems & Weapon control systems.
