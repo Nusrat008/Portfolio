@@ -1,3 +1,19 @@
+### **📌 COMSOL Multiphysics**
+
+<figure markdown="span">
+![Image title](images/Comsol-logo.jpg){ loading=lazy }
+  <figcaption>COMSOL Multiphysics</figcaption>
+</figure>
+
+
+### **📌 ADS**
+
+<figure markdown="span">
+![Image title](images/ads-logo.jpg){ loading=lazy }
+  <figcaption>Advanced Design System(ADS)</figcaption>
+</figure>
+
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/ADS-simulation)
 
 ### **📌 Proteus**
 
@@ -9,19 +25,6 @@
 I have designed and implemented a diverse range of circuits, starting from fundamental logic gates to complex systems. These circuits integrate sensors, power supplies, and Arduino-based microcontroller applications.
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/proteus-simulation)
-
-
-### **📌 ADS**
-
-<figure markdown="span">
-![Image title](images/ads-logo.jpg){ loading=lazy }
-  <figcaption>Advanced Design System(ADS)</figcaption>
-</figure>
-
-
-
-
-🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/ADS-simulation)
 
 
 ### **📌 PSIM**
