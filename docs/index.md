@@ -43,6 +43,8 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 1. **Papri, N.J**, Ferdous, J., Khan, I., & Ghosh, S.(2025).
 Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Body. *IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*, Bangladesh, 2025.
 
+  🔗[See details here](https://nusrat008.github.io/Portfolio/publications/)
+
 <h3 style= "text-align: center"> <b> Achievements
  </b>  </h3>
 
@@ -96,7 +98,9 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
  </b>  </h3>
 
 **Industrial Trainee**
-- Centre for Naval Research and Development (CNRD) by Bangladesh Navy  
+
+- Centre for Naval Research and Development (CNRD) by Bangladesh Navy 
+
 - Internship, (Nov 2024 – Dec 2024)
 
 
