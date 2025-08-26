@@ -15,24 +15,25 @@
 - Preparing Bill of Quantities (BOQ) and cost estimation.
 
 <figure markdown="span">
-![Image title](images/Cafeteria projects/Cabling.png){ loading=lazy }
+![Image title](images/Cafeteria projects/Detail-Plan.png){ loading=lazy }
   <figcaption>Detail Plan Drawing</figcaption>
 </figure>
 
-<!-- <figure markdown="span">
-![Image title](images/Fitting-fixture.png){ loading=lazy }
+
+<figure markdown="span">
+![Image title](images/Cafeteria projects/Fitting-fixture.png){ loading=lazy }
   <figcaption>Fitting and Fixture</figcaption>
 </figure>
 
+
 <figure markdown="span">
-![Image title](images/Conduit.png){ loading=lazy }
+![Image title](images/Cafeteria projects/Conduit.png){ loading=lazy }
   <figcaption>Conduit Layouts</figcaption>
 </figure>
 
+
 <figure markdown="span">
-![Image title](images/Cabling.png){ loading=lazy }
+![Image title](images/Cafeteria projects/Cabling.png){ loading=lazy }
   <figcaption>Cabling Layouts</figcaption>
 </figure>
-
- -->
 
