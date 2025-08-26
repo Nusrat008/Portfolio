@@ -32,8 +32,8 @@
 </figure>
 
 
-<figure markdown="span">
+<!-- <figure markdown="span">
 ![Image title](images/Cafeteria projects/Cabling.png){ loading=lazy }
   <figcaption>Cabling Layouts</figcaption>
-</figure>
+</figure> -->
 
