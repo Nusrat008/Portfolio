@@ -15,7 +15,7 @@
 - Preparing Bill of Quantities (BOQ) and cost estimation.
 
 
-### **Detail Plan Drawing**
+### **Details Plan Drawing**
 
 <figure markdown="span">
 ![Image title](images/Cafeteria projects/Detail-Plan.png){ loading=lazy }
