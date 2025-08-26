@@ -18,6 +18,11 @@ nav:
       #  - My education: Education.md 
   #- Research Experience: research-paper.md
   - Publications: publications.md
+  - Projects: 
+     - IOT based Health Monitoring System: iot-based-health-monitoring.md
+     - Ultrasonic Distance Measurement: ultrasonic-distance-measurement.md
+     - Electronic Mosquito Repellent: Mosquito-repellent-ckt.md
+  - Achievements: achievements.md
   - My Skills: 
      #- EEE Hardware and Software: 
      - Electrical Circuit Simulation: circuit-simulation.md
@@ -26,11 +31,6 @@ nav:
      - Basic Arduino: basic-arduino.md
      - Programming Language: CplusPlus.md
   - Professional Experience: training-working.md  
-  - Projects: 
-     - IOT based Health Monitoring System: iot-based-health-monitoring.md
-     - Ultrasonic Distance Measurement: ultrasonic-distance-measurement.md
-     - Electronic Mosquito Repellent: Mosquito-repellent-ckt.md
-  - Achievements: achievements.md
   - Course and Certification: course-and-certification.md
   - Awards and Honors: Awards-Honors.md
    # -  Course and Certification: course-and-certification.md
