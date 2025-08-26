@@ -1,5 +1,18 @@
 
-### **🏆 CHAMPION    Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''**
+### **🏆 CHAMPION   Project in the "Inter-University Project Showcasing" at "EEE Fest 2025" **
+ 
+
+**Organizer: EEE Club DIU** 
+
+Team name: **OXYGENIX**
+
+<figure markdown="span">
+![Image title](images/my_certificate_DIU.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+
+### **🏆 CHAMPION    Project in the "Undergraduate Project Video Contest" at "Internaltional Student LED-Con 2023"**
  
 
 **Organizer: IEEE Bangladesh Section** 
@@ -28,8 +41,7 @@ certificate
 
  5. No Side Effect 
  
-
-
+ 
 
 <figure markdown="span">
 ![Image title](images/PMS-device.jpg){ loading=lazy }
