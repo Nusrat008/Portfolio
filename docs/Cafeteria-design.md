@@ -9,11 +9,11 @@
 - Preparing Bill of Quantities (BOQ) and cost estimation.
 
 <figure markdown="span">
-![Image title](images/Detail-Plan.png){ loading=lazy }
+![Image title](images/Floor-plan.png){ loading=lazy }
   <figcaption>Detail Plan Drawing</figcaption>
 </figure>
 
-<figure markdown="span">
+<!-- <figure markdown="span">
 ![Image title](images/Fitting-fixture.png){ loading=lazy }
   <figcaption>Fitting and Fixture</figcaption>
 </figure>
@@ -28,5 +28,5 @@
   <figcaption>Cabling Layouts</figcaption>
 </figure>
 
-
+ -->
 
