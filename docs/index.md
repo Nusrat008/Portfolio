@@ -3,10 +3,10 @@
   <figcaption></figcaption>
 </figure>
 
-
-# Welcome to my Protfolio 
-# **NUSRAT JAHAN PAPRI** 
-# B.Sc. in EEE, CUET, Bangladesh. 
+# Welcome 
+<h3 style= "text-align: center"> <b># Welcome to my Protfolio </b>  </h3>  
+<h3 style= "text-align: center"> <b> # **NUSRAT JAHAN PAPRI** </b>  </h3> 
+<h3 style= "text-align: center"> <b> # B.Sc. in EEE, CUET, Bangladesh</b>  </h3> 
 
 
 <h3 style= "text-align: center"> <b> Education </b>  </h3>
