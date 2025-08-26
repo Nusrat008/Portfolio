@@ -4,7 +4,8 @@
 </figure>
 
 
-#I am **Nusrat Jahan Papri**, graduated from EEE, CUET, Bangladesh. 
+# **Nusrat Jahan Papri**, 
+B.Sc. in EEE, CUET, Bangladesh. 
 
 
 <h3 style= "text-align: center"> <b> Education </b>  </h3>
