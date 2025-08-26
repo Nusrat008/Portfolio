@@ -61,7 +61,7 @@ Gold-coated SPR-PCF Biosensor for Early-stage Malaria Screening in the Human Bod
 ⚙️ **Software and Programming Skills:**
 
 
-   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) **COMSOL Multiphysics**, Cadence, Advance Design System (ADS),[AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/) MATLAB Simulink, Proteus
+   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) **COMSOL Multiphysics**, Cadence, Advance Design System (ADS), [AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/) MATLAB Simulink, Proteus
    
 
    🔹 [Programming Language(See Details):](https://nusrat008.github.io/Portfolio/CplusPlus/) Python, C, C++, MATLAB, Assembly (MASM), ARDUINO 
