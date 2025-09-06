@@ -22,12 +22,12 @@ I aspire to achieve impactful research outcomes through unwavering dedication. I
  </b>  </h3>
 
 - Optics & Photonics
-- Biomedical Instrumentation
+- Quantum Computing
 - Artificial intelligence, Machine Learning, Deep learning
 - VLSI design, Embedded System
 - Internet of Things
-- Quantum Computing
-- Semiconductor Physics and Renewable Energey
+- Semiconductor Physics
+- Renewable Energey
 
 
 <h3 style= "text-align: center"> <b>Publications
