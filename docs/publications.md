@@ -24,7 +24,7 @@
 
 **Publicaiotn Year:** 2025. 
 
-**DOI:** [doi.org/10.1109](10.1109/QPAIN66474.2025.11171991) 
+**DOI:** [doi.org/10.1109](https://ieeexplore.ieee.org/document/11171991) 
 
 <!-- **Abstract:** This study introduces a Surface Plasmon 
 Resonance (SPR) sensor based on a Photonic Crystal Fiber 
