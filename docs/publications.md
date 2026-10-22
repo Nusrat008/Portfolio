@@ -6,21 +6,21 @@
 **Design:** Reconstructed geometry of the MXene-based dual-groove PCF-SPR sensor
 
 <figure markdown="span">
-![Image title](images/first_Conf_certificate.png){ loading=lazy }
+![Image title](images/design1.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
 Electric field norm (V/m) at λ = 1.75 µm. Effective mode index neff = 1.4022.
 
 <figure markdown="span">
-![Image title](images/first_Conf_certificate.png){ loading=lazy }
+![Image title](images/emf1.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
 Confinement Loss
 
 <figure markdown="span">
-![Image title](images/first_Conf_certificate.png){ loading=lazy }
+![Image title](images/result1.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Confinement Loss
  
 
 <figure markdown="span">
-![Image title](images/first_Conf_certificate.png){ loading=lazy }
+![Image title](images/design2.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Electric field distributions at resonance (θ = 73.6°) and non-resonance (θ = 
 
 
 <figure markdown="span">
-![Image title](images/first_Conf_certificate.png){ loading=lazy }
+![Image title](images/emf2.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Total reflectance vs Angle of incidence, θ (°)  with Minimum reflectance is 0.
 
 
 <figure markdown="span">
-![Image title](images/first_Conf_certificate.png){ loading=lazy }
+![Image title](images/result2.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
