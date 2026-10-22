@@ -1,5 +1,59 @@
 ### **Journal Articles**
 
+
+📚 **Integrated Dual-Mode Photonic Biosensor for Rapid Monkeypox Diagnosis: Combining MIR DNA Spectroscopy and NIR Protein Detection (ongoing)**
+
+**Design:** Reconstructed geometry of the MXene-based dual-groove PCF-SPR sensor
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+Electric field norm (V/m) at λ = 1.75 µm. Effective mode index neff = 1.4022.
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+Confinement Loss
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+
+📚 **Prism-Coupled SPR Biosensor for Nipah Virus Detection Using MoSe2/TiO2**
+
+
+**Design:** Layered configuration with an N-BK7 glass prism, Ag film, TiO2 layer, MoSe2 active layer, and sensing medium.
+ 
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+Electric field distributions at resonance (θ = 73.6°) and non-resonance (θ = 63.7*°*)
+
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+Total reflectance vs Angle of incidence, θ (°)  with Minimum reflectance is 0.3932, SPR Resonance angle, θ  is 73.6° at RI = 1.333
+
+
+<figure markdown="span">
+![Image title](images/first_Conf_certificate.png){ loading=lazy }
+  <figcaption></figcaption>
+</figure>
+
+
+
 📚 **IoT and Cloud-based Non-invasive Diabetes Detection System from Photoplethysmogram.**
 
 
